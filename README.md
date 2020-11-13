@@ -10,9 +10,6 @@ Module:-
 Module install in CMD
 Command:-  pip install numpy (like that)
 
-Any Queries Contact as :-
-https://techashu.com/contact-us/
-Or
-autiaashish@gmail.com
+Any Queries Contact:- autiaashish@gmail.com
 
 Thank You.........(Keep Update with us)
